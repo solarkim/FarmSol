@@ -14,6 +14,7 @@
 
 ## 예선 결과 
 
-- MODEL : LSTM(epoches 300, batch 8, activation = relu, optimize = adam, EarlyStopping patience 10)
+- MODEL
+   : LSTM(epoches 300, batch 8, activation = relu, optimize = adam, EarlyStopping patience 10)
 
-![initial](![RANK](https://github.com/solarkim/FarmSol/assets/87478541/18c6b6b8-7930-41a9-a957-4e6b9e2e932f)
+(![RANK](https://github.com/solarkim/FarmSol/assets/87478541/18c6b6b8-7930-41a9-a957-4e6b9e2e932f)
